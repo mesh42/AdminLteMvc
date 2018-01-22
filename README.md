@@ -1,5 +1,5 @@
 # AdminLteMvc
-A NuGet package for integrating Admin LTE 2.0.4 into ASP.Net MVC 4-style web apps.
+A NuGet package for integrating Admin LTE 2.0.4 into ASP.Net MVC 5-style web apps.
 
 DEPRECATION WARNING: If you are using the new ASP.Net 5 (Core) project structure, you should search Bower for AdminLte (http://bower.io/search/?q=adminlte) and use that instead. This is only appropriate for projects using the old NuGet-managed client-side dependencies style.
 
